@@ -1,10 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio-project
-
-
-- A mobile portfolio page showcasing my projects and skills
-
+# MIcroverse Review project
 
 ## Built With
 
